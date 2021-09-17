@@ -1,0 +1,11 @@
+<div class="row justify-content-center mt-4">
+	{% for speaker in site.speakers %}
+		<div class="col-lg-4 col-sm-6 col-10 mt-2 text-center">
+			<a href="{{speaker.homepage}}">
+			<div class="ratio ratio-1x1">
+				<img src="{{speaker.img}}" style="object-fit: cover;" class="rounded" alt="Photo of {{speaker.name}}.">
+			</div></a>
+			<h5 class="mt-2 mb-3"> <a class="link-dark" href="{{speaker.homepage}}"> {{speaker.name}} </a> </h5>
+		</div>
+	{% endfor %}
+</div>
