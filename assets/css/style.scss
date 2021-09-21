@@ -1,2 +1,19 @@
 ---
 ---
+.navbar-custom{
+	background-color: #2F61B4;
+}
+
+.h3, h3 {
+	color: #2F61B4;
+}
+
+.schedule {
+	max-width: 300px;
+	@media (min-width: 576px) {
+		max-width: 500px;
+	}
+	@media (min-width: 992px) {
+		max-width: 750px;
+	}
+}

@@ -24,6 +24,28 @@ We hope that this workshop will fuel interest and promote research in learning i
 
 ---
 
+### Tentative Schedule
+
+| Time (EST) | Event |
+|-------|--------|
+| 8:45 - 9:00 | Intro by organizers |
+| 9:00 - 9:30 | Invited Talk (Andrew Davison) |
+| 9:30 - 10:00 | Invited Talk (Chad Jenkins) |
+| 10:00 - 10:30 | Invited Talk (Shuran Song) |
+| 11:00 - 11:30 | Young Researcher Spotlights |
+| 11:30 - 12:00 | Panel Discussion |
+| 12:00 - 12:30 | Lunch |
+| 12:30 - 2:00 | Poster Session |
+| 2:00 - 2:30 | Invited Talk (Ransalu Senanayake) |
+| 2:30 - 3:00 | Invited Talk (Angjoo Kanazawa) |
+| 3:00 - 3:30 | Break/Social Event |
+| 3:30 - 4:00 | Invited Talk (C. Karen Liu) |
+| 4:00 - 4:30 | Invited Talk (Alberto Rodriguez) |
+| 4:30 - 5:00 | Panel Discussion |
+{: .table .table-striped .table-responsive-md .schedule .mx-auto .text-left .mt-3}
+
+---
+
 ### Organizers
 
 - [Shreyas Kousik](https://www.shreyaskousik.com/){:.link-dark}, Stanford
