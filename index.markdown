@@ -35,7 +35,8 @@ We hope that this workshop will fuel interest and promote research in learning i
 | 11:00 - 11:30 | Young Researcher Spotlights |
 | 11:30 - 12:00 | Panel Discussion |
 | 12:00 - 12:30 | Lunch |
-| 12:30 - 2:00 | Poster Session |
+| 12:30 - 1:30 | Poster Session |
+| 1:30 - 2:00 | Invited Talk (Aleksandra Faust) |
 | 2:00 - 2:30 | Invited Talk (Ransalu Senanayake) |
 | 2:30 - 3:00 | Invited Talk (Angjoo Kanazawa) |
 | 3:00 - 3:30 | Break/Social Event |
