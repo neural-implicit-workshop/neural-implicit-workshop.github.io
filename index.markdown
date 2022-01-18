@@ -18,8 +18,17 @@ Through invited talks and a poster session, we will discuss questions such as:
 We hope that this workshop will fuel interest and promote research in learning implicit scene representations for applications in robotics.
 
 ---
-### Speakers
+### Key Details
 
+- **Workshop date:** May 23 or May 27, 2022 (TBA).
+- **Paper format:** Maximum 4 pages (excluding references), in the [RAS format](http://ras.papercept.net/conferences/support/support.php).
+- **Submission deadline:** 11:59 PM (PST), April 15, 2022.
+- **Notification of acceptance:** April 29, 2022.
+- **Submission link:** TBA.
+{: .my-3}
+
+---
+### Speakers
 {% include speakers.html %}
 
 ---
@@ -43,14 +52,17 @@ We hope that this workshop will fuel interest and promote research in learning i
 | 3:30 - 4:00 | Invited Talk (C. Karen Liu) |
 | 4:00 - 4:30 | Invited Talk (Alberto Rodriguez) |
 | 4:30 - 5:00 | Panel Discussion |
-{: .table .table-striped .table-responsive-md .schedule .mx-auto .text-left .mt-3}
+{: .table .table-striped .table-responsive-md .schedule .mr-auto .text-left .mt-3}
 
 ---
 
 ### Organizers
 
-- [Shreyas Kousik](https://www.shreyaskousik.com/){:.link-dark}, Stanford
-- [Preston Culbertson](https://pculbertson.github.io/){:.link-dark}, Stanford
-- [Jeannette Bohg](https://web.stanford.edu/~bohg/){:.link-dark}, Stanford
-- [Mac Schwager](https://web.stanford.edu/~schwager/){:.link-dark}, Stanford
+{% include organizers.html %}
+
+--- 
+
+### Contact Information
+
+If you have any questions, please do not hesitate to contact [Preston Culbertson](mailto:pculbertson@stanford) for more information.
 
