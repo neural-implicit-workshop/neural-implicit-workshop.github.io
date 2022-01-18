@@ -24,7 +24,7 @@ We hope that this workshop will fuel interest and promote research in learning i
 - **Paper format:** Maximum 4 pages (excluding references), in the [RAS format](http://ras.papercept.net/conferences/support/support.php).
 - **Submission deadline:** 11:59 PM (PST), April 15, 2022.
 - **Notification of acceptance:** April 29, 2022.
-- **Submission link:** TBA.
+- **Submission link:** via Microsoft CMT, link TBA.
 {: .my-3}
 
 ---
