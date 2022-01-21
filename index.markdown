@@ -6,26 +6,34 @@ layout: default
 ---
 ### Overview
 
-Computer vision research has recently seen impressive success in creating implicit neural representations of scenes, such as neural radiance fields (NeRFs) and deep Signed Distance Functions (DeepSDFs). Similarly, implicit representations (not necessarily learned) such as SDFs and Riemannian Motion Policies (RMPs) have been used with great success in robotic motion planning, manipulation, and perception. In this workshop, we seek to explore the future of implicit neural representations in robotics. 
-
-Through invited talks and a poster session, we will discuss questions such as:
-- how to quickly learn implicit neural representations online from sensor data, 
-- how to tractably reason about uncertainty in these representations, 
-- how to leverage learned implicit representations for robotic localization, motion planning, manipulation, and locomotion tasks, 
-- how to embed semantic understanding in such representations, and 
-- how to adapt them to simulate and predict dynamic and uncertain scenes. 
-
-We hope that this workshop will fuel interest and promote research in learning implicit scene representations for applications in robotics.
+Computer vision research has recently seen impressive success in creating implicit neural representations of scenes and objects, such as neural radiance fields (NeRFs) and deep Signed Distance Functions (DeepSDFs). Similarly, implicit representations (not necessarily learned) such as SDFs and Riemannian Motion Policies (RMPs) have been used with great success in robotic motion planning, manipulation, and perception. In this workshop, we seek to explore the future of implicit neural representations (INRs) in robotics. In such a quickly-changing space, our aim is to provide the robotics community with a cohesive and united event to discuss the impacts and possibilities of such implicit neural representations.
 
 ---
 ### Key Details
 
 - **Workshop date:** May 23 or May 27, 2022 (TBA).
-- **Paper format:** Maximum 4 pages (excluding references), in the [RAS format](http://ras.papercept.net/conferences/support/support.php).
+- **Paper format:** Maximum 2 pages (excluding references), in the [ICRA format](http://ras.papercept.net/conferences/support/support.php).
+- **Anonymity:** single blind (no need to anonymize).
 - **Submission deadline:** 11:59 PM (PST), April 15, 2022.
-- **Notification of acceptance:** April 29, 2022.
-- **Submission link:** via Microsoft CMT, link TBA.
+- **Notification of acceptance:** May 1, 2022.
+- **Poster Due Date (for accepted papers)**: 22 May 2022.
+- **Submission link:** [https://cmt3.research.microsoft.com/MPINR2022](https://cmt3.research.microsoft.com/MPINR2022).
 {: .my-3}
+
+---
+### Call for Papers
+
+**We invite submissions of short papers on topics related to INRs,** including but not limited to:
+* how to quickly learn INRs online from sensor data, 
+* how to tractably reason about uncertainty in these representations, 
+* how to leverage INRs for robotic localization, motion planning, manipulation, and locomotion tasks,
+* how to embed semantic understanding in such representations, and 
+* how to adapt INRs to simulate and predict dynamic and uncertain scenes. 
+
+We hope that this workshop will fuel interest and promote research in learning implicit scene representations for applications in robotics.
+
+We are excited to highlight young researchers through short **spotlight talks** about each accepted paper before the morning panel discussion. We will also have a **poster session** for each accepted paper after lunch.
+
 
 ---
 ### Speakers
