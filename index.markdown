@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 ### Overview
@@ -11,12 +8,12 @@ Computer vision research has recently seen impressive success in creating implic
 ---
 ### Key Details
 
-- **Workshop date:** May 23 or May 27, 2022 (TBA).
+- **Workshop date:** Friday, May 27, 2022.
 - **Paper format:** Maximum 2 pages (excluding references), in the [ICRA format](http://ras.papercept.net/conferences/support/support.php).
 - **Anonymity:** single blind (no need to anonymize).
-- **Submission deadline:** 11:59 PM (PST), April 15, 2022.
+- **Submission deadline:** April 15, 2022, 11:59 PM (PST).
 - **Notification of acceptance:** May 1, 2022.
-- **Poster Due Date (for accepted papers)**: 22 May 2022.
+- **Poster Due Date (for accepted papers)**: May 22, 2022.
 - **Submission link:** [https://cmt3.research.microsoft.com/MPINR2022](https://cmt3.research.microsoft.com/MPINR2022).
 {: .my-3}
 
@@ -54,10 +51,10 @@ We are excited to highlight young researchers through short **spotlight talks** 
 | 12:00 - 12:30 | Lunch |
 | 12:30 - 1:30 | Poster Session |
 | 1:30 - 2:00 | Invited Talk (Aleksandra Faust) |
-| 2:00 - 2:30 | Invited Talk (Ransalu Senanayake) |
+| 2:00 - 2:30 | Invited Talk (Jiajun Wu) |
 | 2:30 - 3:00 | Invited Talk (Angjoo Kanazawa) |
 | 3:00 - 3:30 | Break/Social Event |
-| 3:30 - 4:00 | Invited Talk (C. Karen Liu) |
+| 3:30 - 4:00 | Invited Talk (Ransalu Senanayake) |
 | 4:00 - 4:30 | Invited Talk (Alberto Rodriguez) |
 | 4:30 - 5:00 | Panel Discussion |
 {: .table .table-striped .table-responsive-md .schedule .mr-auto .text-left .mt-3}
