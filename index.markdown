@@ -9,6 +9,7 @@ Computer vision research has recently seen impressive success in creating implic
 ### Key Details
 
 - **Workshop date:** Friday, May 27, 2022.
+- **Workshop format:** The workshop will be in a hybrid format, with a livestream (via Zoom) to allow for virtual participation. More streaming details TBA.
 - **Paper format:** Maximum 2 pages (excluding references), in the [ICRA format](http://ras.papercept.net/conferences/support/support.php).
 - **Anonymity:** single blind (no need to anonymize).
 - **Submission deadline:** ~~April 15, 2022, 11:59 PM (PST)~~.
@@ -17,7 +18,6 @@ Computer vision research has recently seen impressive success in creating implic
 - **Submission link:** [https://cmt3.research.microsoft.com/MPINR2022](https://cmt3.research.microsoft.com/MPINR2022).
 {: .my-3}
 
-The workshop will be in a hybrid format, with a livestream (via Zoom) to allow for virtual participation. More streaming details TBA.
 
 ---
 ### Call for Papers
