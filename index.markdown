@@ -9,13 +9,15 @@ Computer vision research has recently seen impressive success in creating implic
 ### Key Details
 
 - **Workshop date:** Friday, May 27, 2022.
+- **Workshop format:** The workshop will be in a hybrid format, with a livestream (via Zoom) to allow for virtual participation. More streaming details TBA.
 - **Paper format:** Maximum 2 pages (excluding references), in the [ICRA format](http://ras.papercept.net/conferences/support/support.php).
 - **Anonymity:** single blind (no need to anonymize).
-- **Submission deadline:** April 15, 2022, 11:59 PM (PST).
+- **Submission deadline:** ~~April 15, 2022, 11:59 PM (PST)~~.
 - **Notification of acceptance:** May 1, 2022.
 - **Poster Due Date (for accepted papers)**: May 22, 2022.
 - **Submission link:** [https://cmt3.research.microsoft.com/MPINR2022](https://cmt3.research.microsoft.com/MPINR2022).
 {: .my-3}
+
 
 ---
 ### Call for Papers
@@ -38,25 +40,25 @@ We are excited to highlight young researchers through short **spotlight talks** 
 
 ---
 
-### Tentative Schedule
+### Workshop Schedule
 
 | Time (EST) | Event |
 |-------|--------|
-| 8:45 - 9:00 | Intro by organizers |
-| 9:00 - 9:30 | Invited Talk (Andrew Davison) |
-| 9:30 - 10:00 | Invited Talk (Chad Jenkins) |
-| 10:00 - 10:30 | Invited Talk (Shuran Song) |
-| 11:00 - 11:30 | Young Researcher Spotlights |
-| 11:30 - 12:00 | Panel Discussion |
-| 12:00 - 12:30 | Lunch |
-| 12:30 - 1:30 | Poster Session |
-| 1:30 - 2:00 | Invited Talk (Aleksandra Faust) |
-| 2:00 - 2:30 | Invited Talk (Jiajun Wu) |
-| 2:30 - 3:00 | Invited Talk (Angjoo Kanazawa) |
-| 3:00 - 3:30 | Break/Social Event |
-| 3:30 - 4:00 | Invited Talk (Ransalu Senanayake) |
-| 4:00 - 4:30 | Invited Talk (Alberto Rodriguez) |
-| 4:30 - 5:00 | Panel Discussion |
+| 08:30 - 08:45 | Intro by organizers |
+| 08:45 - 09:15 | Invited Talk (Andrew Davison) |
+| 09:15 - 09:45 | Invited Talk (Chad Jenkins) |
+| 09:45 - 10:15 | Young Researcher Spotlights |
+| 10:15 - 11:00 | Poster Session + Coffee Break |
+| 11:00 - 11:30 | Invited Talk (Shuran Song) |
+| 11:30 - 12:00 | Invited Talk (Aleksandra Faust) |
+| 12:00 - 12:30 | Panel Discussion |
+| 12:30 - 14:00 | Lunch Break |
+| 14:00 - 14:30 | Invited Talk (Jiajun Wu) |
+| 14:30 - 15:00 | Invited Talk (Angjoo Kanazawa) |
+| 15:00 - 15:30 | Invited Talk (Ransalu Senanayake) |
+| 15:30 - 16:00 | Break/Social Event |
+| 16:00 - 16:30 | Invited Talk (Alberto Rodriguez) |
+| 16:30 - 17:00 | Panel Discussion |
 {: .table .table-striped .table-responsive-md .schedule .mr-auto .text-left .mt-3}
 
 ---
@@ -69,5 +71,5 @@ We are excited to highlight young researchers through short **spotlight talks** 
 
 ### Contact Information
 
-If you have any questions, please do not hesitate to contact [Preston Culbertson](mailto:pculbertson@stanford) for more information.
+If you have any questions, please do not hesitate to contact [Preston Culbertson](mailto:pculbertson@stanford) or [Shreyas Kousik](mailto:skousik@stanford.edu) for more information.
 
