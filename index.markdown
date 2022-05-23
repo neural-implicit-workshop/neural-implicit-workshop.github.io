@@ -14,12 +14,14 @@ Through invited talks and a poster session, we hope to explore:
 
 We hope that this workshop will fuel interest and promote research in learning implicit scene representations for applications in robotics.
 
+The workshop will be in a hybrid format, with a livestream (via Zoom) to allow for virtual participation. More streaming details TBA.
+
+
 ---
 ### Key Details
 
 - **Workshop date:** Friday, May 27, 2022.
-- **Workshop format:** The workshop will be in a hybrid format, with a livestream ([via Zoom](https://zoom.us/j/7788423054?pwd=L3JMaGNRSTRFd0hQVFhzT080dlRtQT09)) to allow for virtual participation.
-
+- **Workshop format:** The workshop will be in a hybrid format, with the in-person session held in Room 115C, from 8:30am-5:45pm EST. Virtual participants can join the session remotely, using the Zoom link provided [through Infovaya](https://events.infovaya.com/session?id=14416).
 {: .my-3}
 
 ---
