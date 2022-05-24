@@ -1,0 +1,15 @@
+<table class="table-striped table-responsive-md schedule mr-auto text-left mt-3">
+		<tbody>
+			{% for paper in site.papers %}
+			<tr><td class="px-2 py-2">
+				<a class="link-dark" href="assets/pdf/{{paper.pdf}}"><b>{{paper.title}}</b></a>, {{paper.authors}}.</td></tr>
+			{% endfor %}
+		</tbody>
+</table>
+<!--
+<ul>
+	{% for paper in site.papers %}
+		<li class="mt-1"><a class="link-dark" href="assets/pdf/{{paper.pdf}}"><b>{{paper.title}}</b></a>, {{paper.authors}}.</li>
+	{% endfor %}
+	</ul>
+ -->

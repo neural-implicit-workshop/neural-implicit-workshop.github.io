@@ -51,6 +51,13 @@ The workshop will be in a hybrid format, with a livestream (via Zoom) to allow f
 | 16:30 - 17:00 | Panel Discussion |
 {: .table .table-striped .table-responsive-md .schedule .mr-auto .text-left .mt-3}
 
+
+---
+
+### Accepted Papers
+
+{% include papers.html %}
+
 ---
 
 ### Organizers
