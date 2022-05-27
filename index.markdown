@@ -46,9 +46,8 @@ The workshop will be in a hybrid format, with a livestream (via Zoom) to allow f
 | 14:00 - 14:30 | Invited Talk (Shuran Song) |
 | 14:30 - 15:00 | Invited Talk (Angjoo Kanazawa) |
 | 15:00 - 15:30 | Invited Talk (Ransalu Senanayake) |
-| 15:30 - 16:00 | Break/Social Event |
-| 16:00 - 16:30 | Invited Talk (Alberto Rodriguez) |
-| 16:30 - 17:00 | Panel Discussion |
+| 15:30 - 16:00 | Panel Discussion |
+
 {: .table .table-striped .table-responsive-md .schedule .mr-auto .text-left .mt-3}
 
 
