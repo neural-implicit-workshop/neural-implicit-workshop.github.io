@@ -1,0 +1,31 @@
+<table class="table table-striped table-responsive-md schedule mr-auto text-left mt-3">
+	<thead>
+		<tr>
+			<th> Time (EST) </th>
+			<th> Event </th>
+		</tr>
+	</thead>
+	<tbody>
+		{% assign ordered_events = site.events | sort:"time" %}
+		{% for event in ordered_events %}
+		<tr>
+			<td> {{event.time}} </td>
+			<td> {{event.title}}
+				 {% if event.video %}
+				 	<div class="embed-responsive embed-responsive-16by9 my-3">
+  						<iframe class="embed-responsive-item" src="{{event.video}}" allowfullscreen></iframe>
+					</div>
+				 {% endif %}
+
+			</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+<!--
+<ul>
+	{% for paper in site.papers %}
+		<li class="mt-1"><a class="link-dark" href="assets/pdf/{{paper.pdf}}"><b>{{paper.title}}</b></a>, {{paper.authors}}.</li>
+	{% endfor %}
+	</ul>
+ -->

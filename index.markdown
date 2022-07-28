@@ -35,10 +35,12 @@ All talks at the worksop were recorded on Zoom; we are working with our speakers
 
 ### Workshop Schedule
 
-| Time (EST) | Event |
+{% include schedule.html %}
+
+<!-- | Time (EST) | Event |
 |-------|--------|
 | 08:30 - 08:45 | Intro by organizers |
-| 08:45 - 09:15 | Invited Talk (Andrew Davison) |
+| 08:45 - 09:15 | Invited Talk (Andrew Davison)|
 | 09:15 - 09:45 | Invited Talk (Chad Jenkins) |
 | 09:45 - 10:15 | Young Researcher Spotlights |
 | 10:15 - 11:00 | Poster Session + Coffee Break |
@@ -50,8 +52,7 @@ All talks at the worksop were recorded on Zoom; we are working with our speakers
 | 14:30 - 15:00 | Invited Talk (Angjoo Kanazawa) |
 | 15:00 - 15:30 | Invited Talk (Ransalu Senanayake) |
 | 15:30 - 16:00 | Panel Discussion |
-{: .table .table-striped .table-responsive-md .schedule .mr-auto .text-left .mt-3}
-
+{: .table .table-striped .table-responsive-md .schedule .mr-auto .text-left .mt-3} -->
 
 ---
 
